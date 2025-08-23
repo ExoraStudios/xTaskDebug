@@ -1,0 +1,6 @@
+name: xTaskDebug
+version: '1.0'
+main: com.exorastudios.xtaskdebug.xTaskDebugPlugin
+api-version: '1.21'
+commands:
+  schedulerwatcher:
