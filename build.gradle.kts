@@ -28,7 +28,6 @@ dependencies {
     compileOnly("io.papermc.paper:paper-api:1.21.1-R0.1-SNAPSHOT")
     compileOnly("org.projectlombok:lombok:1.18.38")
     annotationProcessor("org.projectlombok:lombok:1.18.38")
-    compileOnly("me.clip:placeholderapi:2.11.6")
     implementation(files("libs/exo.jar"))
 }
 
